@@ -288,16 +288,17 @@ option {
    margin-top: 45px;
 }
 
-
-
 .form_close {
    right: 20px;
    top: 20px;
    position: absolute;
+   background: none;
+   border: none;
 }
 
 .form_icon {
    border-radius: 50%;
+   background-color: white;
 }
 
 input.error {
